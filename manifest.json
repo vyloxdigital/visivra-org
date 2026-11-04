@@ -1,0 +1,35 @@
+{
+  "name": "VisiVra — Official Eye Health Supplement",
+  "short_name": "VisiVra",
+  "description": "VisiVra is the official eye health supplement with Lutein, Zeaxanthin, Bilberry, Astaxanthin, Zinc and Vitamin A. Order VisiVra online with free US shipping and a 60-day guarantee.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1a7cbf",
+  "theme_color": "#1a7cbf",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["health", "shopping"],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/visivra-3-bottle.webp",
+      "sizes": "800x800",
+      "type": "image/webp",
+      "label": "VisiVra 3-Bottle Eye Health Supplement Pack"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Block crawling of non-content paths
+Disallow: /.well-known/
+
+# Sitemap
+Sitemap: https://visivra-org.vercel.app/sitemap.xml
+
+# LLMs / AI crawlers
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: Claude-Web
+Allow: /
+Allow: /llms.txt
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /

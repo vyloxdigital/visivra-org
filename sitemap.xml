@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://visivra-org.vercel.app/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://visivra-org.vercel.app/images/visivra-6-bottle.webp</image:loc>
+      <image:title>VisiVra 6-Bottle Best Value Eye Health Supplement Pack</image:title>
+      <image:caption>Official VisiVra 6-bottle supplement pack — 180-day supply with Lutein, Zeaxanthin, Bilberry, Astaxanthin, Zinc and Vitamin A.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://visivra-org.vercel.app/images/visivra-3-bottle.webp</image:loc>
+      <image:title>VisiVra 3-Bottle Most Popular Eye Health Supplement Pack</image:title>
+      <image:caption>VisiVra 3-bottle supplement pack — 90-day supply, free US shipping, 60-day money-back guarantee.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://visivra-org.vercel.app/images/visivra-2-bottle.webp</image:loc>
+      <image:title>VisiVra 2-Bottle Starter Eye Health Supplement Pack</image:title>
+      <image:caption>VisiVra 2-bottle starter pack — 60-day supply of the official VisiVra eye supplement.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
